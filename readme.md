@@ -32,5 +32,5 @@
 4. 关闭并重新打开 Typora，从菜单栏中选择 “**主题**” => “**Nice Dark**” 即可
 
 ## Thanks
-Thanks to @kevinzhao2233 @adesurirey, this project is heavily inspired by typora-theme-pie typora-notes-dark-theme
+Thanks to [@kevinzhao2233](https://github.com/kevinzhao2233) [@adesurirey](https://github.com/adesurirey), this project is heavily inspired by [typora-theme-pie](https://github.com/kevinzhao2233/typora-theme-pie) [typora-notes-dark-theme](https://github.com/adesurirey/typora-notes-dark-theme)
 
