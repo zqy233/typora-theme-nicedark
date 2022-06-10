@@ -1,6 +1,7 @@
 
 
 # Effect map/效果图
+![image](https://user-images.githubusercontent.com/57588553/172979143-953d7023-5a94-4d25-b32c-aa0348d20043.png)
 
 # EN
 
