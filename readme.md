@@ -14,7 +14,7 @@
 
 1. Download the `nice-dark.css` file and `nice-dark` folder 
 2. Open Typora, click "**Preferences** `(ctrl +,)`" => "**Appearance**" => "**Open Theme Folder**" button, the theme folder of Typora will pop up
-3. Put the downloaded `pie.css` and `pie` folders into the theme folder of Typora
+3. Put the downloaded `nice-dark.css` and `nice-dark` folders into the theme folder of Typora
 4. Close and reopen Typora, select "**Theme**" => "**Nice Dark**" from the menu bar
 
 # 中文
