@@ -31,3 +31,6 @@
 3. 将下载好的`nice-dark.css`和`nice-dark`文件夹放到 Typora 的主题文件夹中
 4. 关闭并重新打开 Typora，从菜单栏中选择 “**主题**” => “**Nice Dark**” 即可
 
+## Thanks
+Thanks to @kevinzhao2233 @adesurirey, this project is heavily inspired by typora-theme-pie typora-notes-dark-theme
+
